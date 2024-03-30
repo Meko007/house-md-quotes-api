@@ -1,35 +1,16 @@
 {
     "characters": {
-        "house": {
-            "name": "Dr. Gregory House"
-        },
-        "wilson": {
-            "name": "Dr. James Wilson"
-        },
-        "cuddy": {
-            "name": "Dr. Lisa Cuddy"
-        },
-        "foreman": {
-            "name": "Dr. Eric Foreman"
-        },
-        "cameron": {
-            "name": "Dr. Allison Cameron"
-        },
-        "chase": {
-            "name": "Dr. Robert Chase"
-        },
-        "thirteen": {
-            "name": "Dr. Rena Hadley (Thirteen)"
-        },
-        "taub": {
-            "name": "Dr. Chris Taub"
-        },
-        "kutner": {
-            "name": "Dr. Lawrence Kutner"
-        },
-        "amber": {
-            "name": "Dr. Amber Volakis"
-        }
+        "house": "Dr. Gregory House",
+        "wilson": "Dr. James Wilson",
+        "cuddy": "Dr. Lisa Cuddy",
+        "foreman": "Dr. Eric Foreman",
+        "cameron": "Dr. Allison Cameron",
+        "chase": "Dr. Robert Chase",
+        "thirteen": "Dr. Rena Hadley",
+        "taub": "Dr. Chris Taub",
+        "kutner": "Dr. Lawrence Kutner",
+        "amber": "Dr. Amber Volakis",
+        "vogler": "Edward Vogler"
     },
     "quotes": [
         {
@@ -39,212 +20,278 @@
         },
         {
             "quote": "Who needs actual doctors when you've got the internet?",
-            "character": "thirteen"
+            "character": "thirteen",
+            "episode": ""
         },
         {
             "quote": "Being drunk doesn't change who you are, it just reveals it.",
-            "character": "thirteen"
+            "character": "thirteen",
+            "episode": ""
         },
         {
             "quote": "Who needs med school when you've got Wi-Fi?",
-            "character": "house"
+            "character": "house",
+            "episode": ""
         },
         {
             "quote": "Work smart, not hard.",
-            "character": "house"
+            "character": "house",
+            "episode": ""
         },
         {
             "quote": "I have no idea what you meant, but I could smell what The Rock was cooking",
             "character": "house",
-            "episode": "S01E01"
+            "episode": ""
         },
         {
             "quote": "Phew! For a moment there, I thought you were smart.",
-            "character": "house"
+            "character": "house",
+            "episode": ""
         },
         {
             "quote": "The most successful marriages are based on lies.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E04"
         },
         {
             "quote": "Everybody lies.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E01"
         },
         {
             "quote": "Gorgeous women do not go to medical school... unless, they're as damaged as they are beautiful.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E01"
         },
         {
             "quote": "Because I'm a doctor. Because when we make mistakes people die.",
-            "character": "cuddy"
+            "character": "cuddy",
+            "episode": "S01E01"
         },
         {
             "quote": "Truth begins in lies.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E01"
         },
         {
             "quote": "Oxygen is so important during those prepubescent years, don't you think?",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E01"
         },
         {
             "quote": "No, treating illnesses is why we became doctors. Treating patients is what makes most doctors miserable.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E01"
         },
         {
             "quote": "Thirty percent of all dads out there don't realize they're raising someone else's kid.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E02"
         },
         {
             "quote": "Perseverance does not equal worthiness.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E02"
         },
         {
             "quote": "Another reason I don't like meeting patients - they don't know what you look like, they can't yell at you.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E02"
         },
         {
             "quote": "If I eat standing up, I spill.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E02"
         },
         {
             "quote": "Men should grow up.",
-            "character": "cameron"
+            "character": "cameron",
+            "episode": "S01E03"
         },
         {
             "quote": "Men are lucky they can only have one orgasm.",
-            "character": "cameron"
+            "character": "cameron",
+            "episode": "S01E03"
+        },
+        {
+            "quote": "Don't worry. Many women learn to embrace this parasite. They name it, dress it up in tiny clothes, arrange playdates with other parasites.",
+            "character": "house",
+            "episode": "S01E04"
         },
         {
             "quote": "It's easier to die than to watch someone die.",
-            "character": "cameron"
+            "character": "cameron",
+            "episode": "S01E04"
         },
         {
             "quote": "Candy canes? Are you mocking me?",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E05"
         },
         {
             "quote": "What I have difficulty with is the whole concept of belief. Faith isn't based on logic and experience.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E05"
         },
         {
             "quote": "Can't hate someone if you don't know them",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E05"
         },
         {
             "quote": "You know how it is with nuns, you take out their IUDs, they just bounce right back.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E05"
+        },
+        {
+            "quote": "She has God inside of her. Would have been easier to deal with a tumor.",
+            "character": "house",
+            "episode": "S01E05"
         },
         {
             "quote": "I don't know who I am anymore.",
-            "character": "chase"
+            "character": "chase",
+            "episode": "S01E06"
         },
         {
             "quote": "Self-sacrifice is not a symptom of schizophrenia. It excludes the diagnosis.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E06"
         },
         {
             "quote": "Well, as long as you're trying to be good, you can do whatever you want.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E07"
         },
         {
             "quote": "Is a lie a lie if everybody knows it's a lie?",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E07"
         },
         {
             "quote": "I didn't realize it was possible for a woman to be \"unusually\" irritable.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E07"
         },
         {
             "quote": "I don't ask why patients lie. I just assume they all do.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E07"
         },
         {
             "quote": "It's what I do.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E07"
         },
         {
             "quote": "I'm the doctor who's trying to save your son, you're the mom who's letting him die. Clarification - it's a beautiful thing",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E08"
         },
         {
             "quote": "What can I say? Chicks with no teeth turn me on.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E08"
         },
         {
             "quote": "I hate sports metaphors.",
-            "character": "cameron"
+            "character": "cameron",
+            "episode": "S01E08"
         },
         {
             "quote": "Maternal instinct is always irrational. Doesn't mean it's wrong.",
-            "character": "cuddy"
+            "character": "cuddy",
+            "episode": "S01E08"
         },
         {
             "quote": "What do teenage boys do in the morning besides... the obvious?",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E08"
         },
         {
             "quote": "Hey. I'm a man. I don't have time for laundry. I'm savin' lives here.",
-            "character": "wilson"
+            "character": "wilson",
+            "episode": "S01E08"
         },
         {
             "quote": "Like I always say, there's no \"I\" in team. There's a \"me\" though, if you jumble it up.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E09"
         },
         {
             "quote": "You know, some doctors have the Messiah complex. They need to save the world. You've got the Rubik's complex. You need to solve the puzzle.",
-            "character": "wilson"
+            "character": "wilson",
+            "episode": "S01E09"
         },
         {
             "quote": "When I hired you, I knew you were insane.",
-            "character": "cuddy"
+            "character": "cuddy",
+            "episode": "S01E09"
         },
         {
-            "quote": " You can think I'm wrong, but that's no reason to stop thinking.",
-            "character": "house"
+            "quote": "Trying to convince an insane person not to do insane things is, in itself, insane.",
+            "character": "cuddy",
+            "episode": "S01E09"
+        },
+        {
+            "quote": "You can think I'm wrong, but that's no reason to stop thinking.",
+            "character": "house",
+            "episode": "S01E09"
         },
         {
             "quote": "My staff are idiots. I'm sure you know what it's like, Your Honor.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E09"
         },
         {
             "quote": "Patients sometimes get better. You have no idea why, but unless you give a reason, they won't pay you.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E09"
         },
         {
             "quote": "So your philosophy is, if they don't want treatment, they get it shoved down their throat, but if it might cure their paralysis, whoa, better slow down.",
-            "character": "wilson"
+            "character": "wilson",
+            "episode": "S01E09"
         },
         {
             "quote": "You make enough calls, one of 'em is bound to be right.",
-            "character": "foreman"
+            "character": "foreman",
+            "episode": "S01E09"
         },
         {
             "quote": "Patients lie but usually only one lie at a time.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E10"
         },
         {
             "quote": "Fake low blood sugar - now THAT'S acting!",
-            "character": "wilson"
+            "character": "wilson",
+            "episode": "S01E10"
         },
         {
             "quote": "I take risks, sometimes patients die, but not taking risks causes more patients to die - so I guess my biggest problem is I've been cursed with the ability to do the math.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E11"
         },
         {
             "quote": "Hi. I'm Dr. House, and this is the coolest day of my life!",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E12"
         },
         {
             "quote": "He needs a new kidney. I was thinking the kidney people might have some.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E12"
         },
         {
             "quote": "Never visit a patient.",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E12"
         },
         {
             "quote": "A secret club? What's the secret? They're all morons?",
-            "character": "house"
+            "character": "house",
+            "episode": "S01E13"
         },
         {
             "quote": "The little ones call me \"Uncle Greg.\"",
@@ -262,79 +309,89 @@
             "episode": "S01E13"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "I'm pretty sure my X-Ray machine can take your phone in a fight. It'll fry it.",
+            "character": "chase",
+            "episode": "S01E14"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "Do you ever watch \"Gilligan's Island\" reruns and really, really think they're going to get off the island this time?",
+            "character": "foreman",
+            "episode": "S01E14"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "Read less, more TV.",
+            "character": "house",
+            "episode": "S01E14"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "Who da man? I da man.",
+            "character": "house",
+            "episode": "S01E14"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "Billionaires buy movie studios to get laid. They buy hospitals to get respect.",
+            "character": "wilson",
+            "episode": "S01E14"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "That's House. He knows things.",
+            "character": "cameron",
+            "episode": "S01E14"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "Well, this is not a team. It's not a boat. It's not a machine that has a lot of parts that have to work together. The metaphors are all crap. This is a business - that's all it is.",
+            "character": "vogler",
+            "episode": "S01E15"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "Sorry, you don't get to make that call unless you have a stethoscope. Union rules.",
+            "character": "house",
+            "episode": "S01E16"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "It takes decades to eat your way into a heart attack.",
+            "character": "foreman",
+            "episode": "S01E16"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "If I was that fat, I'd be pretty tempted to knock back a bottle of pills.",
+            "character": "chase",
+            "episode": "S01E16"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "Some day there will be a black president. Some day there will be a gay president. Maybe there will even be a gay, black president. But one combination I do not see happening is gay, black, and dead. You need to stop lying to me.",
+            "character": "house",
+            "episode": "S01E17"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "You're the most naive atheist I've ever met.",
+            "character": "house",
+            "episode": "S01E17"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "Now I'm not a baby expert, but I'm pretty sure they're not supposed to shrink.",
+            "character": "house",
+            "episode": "S01E18"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "I don't like loud, angry giants threatening me with violence. How is that pathetic?",
+            "character": "house",
+            "episode": "S01E18"
         },
         {
-            "quote": "",
-            "character": "",
-            "episode": ""
+            "quote": "Gregory House is a symbol of everything wrong with the healthcare industry.",
+            "character": "vogler",
+            "episode": "S01E18"
+        },
+        {
+            "quote": "You are a great doctor, House, but you are not worth $100 million.",
+            "character": "cuddy",
+            "episode": "S01E18"
+        },
+        {
+            "quote": "A man is a sum of his actions.",
+            "character": "vogler",
+            "episode": "S01E18"
         }
     ]
 }
