@@ -15,20 +15,49 @@ app.get("/", (_, res) => {
 	res.send("Hello World!");
 });
 
+app.all("*", (_, res, next) => {
+	res.set("Access-Control-Allow-Origin", "*");
+	next();
+});
+
 app.get("/v1/random/:num?", async (req, res) => {
-	const { num } = req.params;
-	res.status(200).send(getRandomQuotes(Number(num) ? Number(num) : 1));
+	try {
+		const { num } = req.params;
+		const showEpisode = req.query.showEpisode === "true";
+		const quotes = getRandomQuotes((Number(num) ? Number(num) : 1));
+		res.status(200).json(showEpisode ? quotes : quotes.map(quote => ({
+			"quote": quote.quote,
+			"character": quote.character
+		})));
+	} catch (error) {
+		res.status(500).json({ message: "Internal Server Error" });
+		console.error(error);
+	}
 });
 
 app.get("/v1/character/:slug/:num?", async (req, res) => {
-	const { slug, num } = req.params;
-	const choiceNum = Number(num) ? Number(num) : 1;
-	res.status(200).send(getRandomQuotesByCharacter(slug, choiceNum));
+	try {
+		const { slug, num } = req.params;
+		const showEpisode = req.query.showEpisode === "true";
+		const quotes = getRandomQuotesByCharacter(slug, (Number(num) ? Number(num) : 1));
+		res.status(200).json(showEpisode ? quotes : quotes.map(quote => ({
+			"quote": quote.quote,
+			"character": quote.character
+		})));
+	} catch (error) {
+		res.status(500).json({ message: "Internal Server Error" });
+		console.error(error);
+	}
 });
 
 app.get("/v1/episode/:episode", async (req, res) => {
-	const { episode } = req.params;
-	res.status(200).send(getQuotesByEpisode(episode));
+	try {
+		const { episode } = req.params;
+		res.status(200).json(getQuotesByEpisode(episode));
+	} catch (error) {
+		res.status(500).json({ message: "Internal Server Error" });
+		console.error(error);
+	}
 });
 
 app.listen(port, () => {

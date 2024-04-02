@@ -44,10 +44,6 @@ export const getRandomQuotes = (numOfQuotes: number): quoteType[] => {
 export const getRandomQuotesByCharacter = (slug: string, numOfQuotes: number): quoteType[] => {
 	const characterQuotes = data["quotes"].filter(quote => quote.character === slug);
 
-	if (characterQuotes.length === 0) {
-		return [];
-	}
-
 	const out: quoteType[] = [];
 
 	if (numOfQuotes > characterQuotes.length) {
