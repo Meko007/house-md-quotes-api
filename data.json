@@ -6,11 +6,13 @@
         "foreman": "Dr. Eric Foreman",
         "cameron": "Dr. Allison Cameron",
         "chase": "Dr. Robert Chase",
-        "thirteen": "Dr. Rena Hadley",
+        "thirteen": "Dr. Remy Hadley",
         "taub": "Dr. Chris Taub",
         "kutner": "Dr. Lawrence Kutner",
         "amber": "Dr. Amber Volakis",
-        "vogler": "Edward Vogler"
+        "vogler": "Edward Vogler",
+        "stacy": "Stacy Warner",
+        "lucas": "Lucas Douglas"
     },
     "quotes": [
         {
@@ -392,6 +394,541 @@
             "quote": "A man is a sum of his actions.",
             "character": "vogler",
             "episode": "S01E18"
+        },
+        {
+            "quote": "Well, when I do decide to push you away, I hope there's a small person kneeling behind you so you fall down and hurt your head.",
+            "character": "house",
+            "episode": "S01E19"
+        },
+        {
+            "quote": "The eyes can mislead, a smile can lie, but the shoes always tell the truth.",
+            "character": "house",
+            "episode": "S01E19"
+        },
+        {
+            "quote": "You are one wicked free thinker! You want to be a rebel? Stop being cool. Wear a pocket protector like he does, and get a haircut like the Asian kids that don't leave the library for 24 hour stretches. They're the ones who don't care what you think.",
+            "character": "house",
+            "episode": "S01E19"
+        },
+        {
+            "quote": "You live under the delusion that you can fix everything that isn't perfect.",
+            "character": "house",
+            "episode": "S01E20"
+        },
+        {
+            "quote": "According to Freud, and I'm paraphrasing, instinct of love toward an object demands a mastery to obtain it, and if a person feels they can't control the object or feel threatened by it, they act negatively toward it. Like an eighth-grade boy punching a girl.",
+            "character": "cameron",
+            "episode": "S01E20"
+        },
+        {
+            "quote": "Young ingénue doctor, falling in love with gruff, older mentor; her sweet, gentle nature bringing him to a closer, fuller understanding of his wounded heart.",
+            "character": "wilson",
+            "episode": "S01E20"
+        },
+        {
+            "quote": "I'm sure this goes against everything you've been taught, but right and wrong do exist.",
+            "character": "house",
+            "episode": "S01E21"
+        },
+        {
+            "quote": "It's a basic truth of the human condition, that everybody lies. The only variable is about what.",
+            "character": "house",
+            "episode": "S01E21"
+        },
+        {
+            "quote": "Personally, I choose to believe that the white-light people sometimes see visions this patient saw. They're all just chemical reactions that take place while the brain shuts down.",
+            "character": "house",
+            "episode": "S01E21"
+        },
+        {
+            "quote": "There's no conclusive science. My choice has no practical relevance to my life. I choose the outcome I find more comforting.",
+            "character": "house",
+            "episode": "S01E21"
+        },
+        {
+            "quote": "It is in the nature of medicine, that you are gonna screw up. You are gonna kill someone. If you can't handle that reality, pick another profession or finish medical school and teach.",
+            "character": "house",
+            "episode": "S01E21"
+        },
+        {
+            "quote": "Three guys walk into a clinic. Their legs hurt. What's wrong with them?",
+            "character": "house",
+            "episode": "S01E21"
+        },
+        {
+            "quote": "The weird thing about telling someone they're dying is that, it tends to focus their priorities. Find out what matters to them. What they're willing to die for... What they're willing to lie for.",
+            "character": "house",
+            "episode": "S01E21"
+        },
+        {
+            "quote": "He's my patient. I'm sure he's a good guy, he's probably a great guy. Probably a much better guy than I am. And some part of me wants him to die. I'm just not sure if it's because, I want to be with her, or if it's because I want her to suffer.",
+            "character": "house",
+            "episode": "S01E22"
+        },
+        {
+            "quote": "I thought you were too screwed up to love anyone... I was wrong. You just couldn't love me. That's good. I'm happy for you.",
+            "character": "cameron",
+            "episode": "S01E22"
+        },
+        {
+            "quote": "It's not paranoia if someone's out to get you.",
+            "character": "foreman",
+            "episode": "S01E22"
+        },
+        {
+            "quote": "If you can fake sincerity, you can fake pretty much anything.",
+            "character": "house",
+            "episode": "S01E22"
+        },
+        {
+            "quote": "Because it's crap! Because you browbeat patients, intimidate them, lie to them! If you think you're right, you don't give a damn what they think! I did what you do all the time. The only difference is, I did it to you.",
+            "character": "stacy",
+            "episode": "S01E22"
+        },
+        {
+            "quote": "Look I know you're friends with her, but there is a code: Bros before hoes, man.",
+            "character": "house",
+            "episode": "S02E01"
+        },
+        {
+            "quote": "If I'm mean to you, you'll be mean to me. Mutually-assured destruction.",
+            "character": "house",
+            "episode": "S02E01"
+        },
+        {
+            "quote": "Wilson's a fool. I'm an idiot.",
+            "character": "house",
+            "episode": "S02E01"
+        },
+        {
+            "quote": "If you're dying, suddenly everybody loves you.",
+            "character": "house",
+            "episode": "S02E02"
+        },
+        {
+            "quote": "Is it still illegal to perform an autopsy on a living person?",
+            "character": "house",
+            "episode": "S02E02"
+        },
+        {
+            "quote": "She's such a brave girl, I want to see how brave she is when you tell her she's gonna die.",
+            "character": "house",
+            "episode": "S02E02"
+        },
+        {
+            "quote": "These cancer kids, you can't put them all on a pedestal. It's basic statistics. Some of them have gotta be whiney little fraidy-cats.",
+            "character": "house",
+            "episode": "S02E02"
+        },
+        {
+            "quote": "Nobody wants to die. But you are going to. The question is how. How much you're going to suffer, how long. I'm asking if you want this to be over.",
+            "character": "house",
+            "episode": "S02E02"
+        },
+        {
+            "quote": "Cancer doesn't make you special.",
+            "character": "house",
+            "episode": "S02E02"
+        },
+        {
+            "quote": "You really want to screw Whitey? Be one of the few black men who live long enough to collect social security. Take the medicine.",
+            "character": "foreman",
+            "episode": "S02E03"
+        },
+        {
+            "quote": "If you're wallowing in self-loathing, I've got something that might help. We're getting sued!",
+            "character": "house",
+            "episode": "S02E03"
+        },
+        {
+            "quote": "Do I get bonus points if I act like I care?",
+            "character": "house",
+            "episode": "S02E03"
+        },
+        {
+            "quote": "Hey, I can be a jerk to people I haven't slept with. I am that good.",
+            "character": "house",
+            "episode": "S02E03"
+        },
+        {
+            "quote": "Would the world be a better place if people never felt guilty? Makes sex better.",
+            "character": "house",
+            "episode": "S02E03"
+        },
+        {
+            "quote": "Nobel invented dynamite. I won't accept his blood money.",
+            "character": "house",
+            "episode": "S02E04"
+        },
+        {
+            "quote": "J'ever notice, how all the self-sacrificing women in history, Joan of Arc, Mother Teresa... can't think of any others, they all die alone? The men, on the other hand, get so much fuzz it's crazy.",
+            "character": "house",
+            "episode": "S02E04"
+        },
+        {
+            "quote": "There's an evolutionary imperative why we give a crap about our family and friends, and there's an evolutionary imperative why we don't give a crap about anybody else. If we loved all people indiscriminately, we couldn't function.",
+            "character": "house",
+            "episode": "S02E04"
+        },
+        {
+            "quote": "Welcome aboard the good ship Asskisser. Nice day for a sail! Pucker up, me 'earties!",
+            "character": "house",
+            "episode": "S02E04"
+        },
+        {
+            "quote": "McDonalds' makes a better hamburger than your mother because they make more?",
+            "character": "house",
+            "episode": "S02E04"
+        },
+        {
+            "quote": "You wanted to be a doctor, maybe you should have buckled down a little more in high school.",
+            "character": "house",
+            "episode": "S02E05"
+        },
+        {
+            "quote": "When I said I'd do anything for the money, obviously I didn't mean it.",
+            "character": "house",
+            "episode": "S02E05"
+        },
+        {
+            "quote": "You know me, hostility makes me shrink up like a... I can't think of a non-sexual metaphor.",
+            "character": "house",
+            "episode": "S02E06"
+        },
+        {
+            "quote": "How am I supposed to practice medicine with a lawyer sitting on my shoulder?",
+            "character": "house",
+            "episode": "S02E06"
+        },
+        {
+            "quote": "So air is keeping him from breathing air. Let's go with that for the irony.",
+            "character": "house",
+            "episode": "S02E06"
+        },
+        {
+            "quote": "This is exactly why I created nurses. Clean up on aisle three!",
+            "character": "house",
+            "episode": "S02E06"
+        },
+        {
+            "quote": "When you save someone's life, they owe you forever.",
+            "character": "house",
+            "episode": "S02E06"
+        },
+        {
+            "quote": "So if you break an arbitrary rule, Cameron damns you to hell. But if you break a rule that actually has a reason, that's designed to protect people, Cameron develops a crazy crush on you.",
+            "character": "foreman",
+            "episode": "S02E06"
+        },
+        {
+            "quote": "You're healed. Rise and walk.",
+            "character": "house",
+            "episode": "S02E06"
+        },
+        {
+            "quote": "My goodness, it's like watching Oscar Wilde and Noel Coward in the third grade.",
+            "character": "stacy",
+            "episode": "S02E06"
+        },
+        {
+            "quote": "Well played. Religion just killed another person.",
+            "character": "house",
+            "episode": "S06E09"
+        },
+        {
+            "quote": "But then I also wanted to try to cure cancer by infecting a guy with malaria to win a $50 bet. You really want to be like me?",
+            "character": "house",
+            "episode": "S06E13"
+        },
+        {
+            "quote": "Would you rather I go back on Vicodin?",
+            "character": "house",
+            "episode": "S06E13"
+        },
+        {
+            "quote": "Why am I the only person here who cares what happens to this hospital?",
+            "character": "cuddy",
+            "episode": "S06E13"
+        },
+        {
+            "quote": "Sometimes the bigger they are, the harder they kick your ass.",
+            "character": "house",
+            "episode": "S06E13"
+        },
+        {
+            "quote": "You still have a thumb because of us, and like everyone else in this world, we don't work for free. We earn this money and if we have to take your house to get it, we will.",
+            "character": "cuddy",
+            "episode": "S06E13"
+        },
+        {
+            "quote": "Speed dating's a meat market.",
+            "character": "house",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "Privacy's basically a modern invention. Towns used to be too small for anybody to keep any secrets.",
+            "character": "taub",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "I don't get putting your whole life online.",
+            "character": "chase",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "Connections are for airports. For people, we have over 300 cable channels.",
+            "character": "house",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "When we're left to our own devices, we make lousy choices.",
+            "character": "taub",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "You here at gunpoint? Need me to call 911?",
+            "character": "house",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "The quiet ones are always deeply repressed.",
+            "character": "house",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "Are you hyperventilating? Remember that covering your mouth and one nostril can help.",
+            "character": "house",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "Figuring out who people are takes time. And it takes twice as much time if they're trying to impress you.",
+            "character": "thirteen",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "That was pretty cool what I did, right? You wanna make out?",
+            "character": "house",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "Come on. Everybody poops. I read the book in medical school.",
+            "character": "house",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "Faces can be distracting, but there's nothing better than looking into someone's eyes and everything that goes with that.",
+            "character": "thirteen",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "People meet, they like something superficial, and they fill in the blanks with whatever they want to believe.",
+            "character": "chase",
+            "episode": "S06E14"
+        },
+        {
+            "quote": "I'm probably not the best guy to go to for marital advice.",
+            "character": "chase",
+            "episode": "S06E15"
+        },
+        {
+            "quote": "So what am I supposed to do? I can't prove a negative.",
+            "character": "taub",
+            "episode": "S06E15"
+        },
+        {
+            "quote": "I take one in maybe one in twenty cases. A lot of the people I turn down end up dying.",
+            "character": "house",
+            "episode": "S06E16"
+        },
+        {
+            "quote": "He's not even here and he's screwing with us.",
+            "character": "taub",
+            "episode": "S06E16"
+        },
+        {
+            "quote": "Your texting does not prove you're faithful. It proves you know she thinks that you're unfaithful. Can't force trust.",
+            "character": "house",
+            "episode": "S06E15"
+        },
+        {
+            "quote": "It's not magical. It's experimental. Like washing your hands after pooping once was.",
+            "character": "house",
+            "episode": "S06E15"
+        },
+        {
+            "quote": "I don't even know who Frodo is.",
+            "character": "chase",
+            "episode": "S06E17"
+        },
+        {
+            "quote": "Lord have MRSA.",
+            "character": "house",
+            "episode": "S06E17"
+        },
+        {
+            "quote": "I liked him better when he was on Vicodin.",
+            "character": "chase",
+            "episode": "S06E17"
+        },
+        {
+            "quote": "I guess you've never heard the expression, \"Gas chromatography machines don't lie.\"",
+            "character": "house",
+            "episode": "S06E17"
+        },
+        {
+            "quote": "Whoa! I didn't steal them. I found a way to obtain them.",
+            "character": "lucas",
+            "episode": "S06E17"
+        },
+        {
+            "quote": "We did it. Well, I did it.",
+            "character": "house",
+            "episode": "S06E17"
+        },
+        {
+            "quote": "No other species mates for life, and if you're gonna bring up swans, they cheat like everybody else. They just have better PR than rabbits.",
+            "character": "house",
+            "episode": "S06E18"
+        },
+        {
+            "quote": "A functional open marriage is like a unicorn. It's a mythical creature that doesn't exist.",
+            "character": "taub",
+            "episode": "S06E18"
+        },
+        {
+            "quote": "My unicorn isn't a unicorn. It's a donkey with a plunger stuck to its face.",
+            "character": "house",
+            "episode": "S06E18"
+        },
+        {
+            "quote": "I read a study that found men who have multiple copies of a certain vasopressin receptor are twice as lucky to be unfaithful. Maybe you're just one of those guys.",
+            "character": "thirteen",
+            "episode": "S06E18"
+        },
+        {
+            "quote": "So you're actually going to sleep with another woman, then go home to your wife?",
+            "character": "foreman",
+            "episode": "S06E18"
+        },
+        {
+            "quote": "I realized something. I do nice things, nice things happen to me. Karma works.",
+            "character": "house",
+            "episode": "S06E18"
+        },
+        {
+            "quote": "Sodomy, one of the top ten most common household accidents.",
+            "character": "house",
+            "episode": "S06E19"
+        },
+        {
+            "quote": "Does it bother me that people hurt others because they're too weak to face the truth? Yeah.",
+            "character": "thirteen",
+            "episode": "S06E19"
+        },
+        {
+            "quote": "They gave him electroconvulsive therapy to make him straight?",
+            "character": "taub",
+            "episode": "S06E19"
+        },
+        {
+            "quote": "It is easier to say no to dessert than to pretend you don't eat.",
+            "character": "thirteen",
+            "episode": "S06E19"
+        },
+        {
+            "quote": "Wisdom is knowing the difference between what you can change... and what you were born with.",
+            "character": "house",
+            "episode": "S06E19"
+        },
+        {
+            "quote": "Cowardice is labeling what you don't wanna change as innate.",
+            "character": "wilson",
+            "episode": "S06E19"
+        },
+        {
+            "quote": "Everyone wants their stuff. That's why it's their stuff.",
+            "character": "house",
+            "episode": "S06E20"
+        },
+        {
+            "quote": "You present as not giving a damn about other people's emotions, but your actions indicate otherwise.",
+            "character": "therapis",
+            "episode": "S06E20"
+        },
+        {
+            "quote": "The thing that caused the change is gone, so the change itself is gone.",
+            "character": "rherap",
+            "episode": "S06E20"
+        },
+        {
+            "quote": "I hear Ten, Eleven and Twelve. Where's Thirteen?",
+            "character": "house",
+            "episode": "S06E21"
+        },
+        {
+            "quote": "I'm not in the habit of encouraging my patients' superstitions.",
+            "character": "house",
+            "episode": "S06E21"
+        },
+        {
+            "quote": "What do you have in your life? Honestly, tell me. I'm moving on. Wilson is moving on. And you? You've got nothing, House. Nothing.",
+            "character": "cuddy",
+            "episode": "S06E21"
+        },
+        {
+            "quote": "I did everything right. She died anyway. Why the hell did you think that would make me feel any better?",
+            "character": "house",
+            "episode": "S06E21"
+        },
+        {
+            "quote": "I love you. I wish I didn't. But I can't help it.",
+            "character": "cuddy",
+            "episode": "S06E21"
+        },
+        {
+            "quote": "Cuddy and I are now Cuddy and I. There's an \"I\" in \"Cuddy\".",
+            "character": "house",
+            "episode": "S07E01"
+        },
+        {
+            "quote": "",
+            "character": "",
+            "episode": ""
+        },
+        {
+            "quote": "",
+            "character": "",
+            "episode": ""
+        },
+        {
+            "quote": "",
+            "character": "",
+            "episode": ""
+        },
+        {
+            "quote": "",
+            "character": "",
+            "episode": ""
+        },
+        {
+            "quote": "",
+            "character": "",
+            "episode": ""
+        },
+        {
+            "quote": "",
+            "character": "",
+            "episode": ""
+        },
+        {
+            "quote": "",
+            "character": "",
+            "episode": ""
+        },
+        {
+            "quote": "",
+            "character": "",
+            "episode": ""
         }
     ]
 }
